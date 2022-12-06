@@ -26,8 +26,11 @@ files) as a zip file (please put the Readme inside the zip file).
 You can use external resources as long as you mark them: “ // taken from: <URL> ”
   
   Red  → Green
+  
 Orange  → Blue
+  
 Yellow  → Purple
+  
   
   
   As an ALM tool, Github was used. There was a Kanban-board created where the user stories were defined and converted to issues.
@@ -41,7 +44,7 @@ Yellow  → Purple
   The develop branch is at the end of the project merged back to main and it is given a tag, to mark the release.
   
   
- ##Usage
+ ## Usage
  
   Download the artifact from the pipeline and execute the .jar file with the following command:
   
