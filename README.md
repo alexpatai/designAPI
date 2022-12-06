@@ -48,7 +48,7 @@ Yellow  → Purple
  
   Download the artifact from the pipeline and execute the .jar file with the following command:
   
-  java -jar <filename>.jar
+  java -jar designAPI-0.0.1-SNAPSHOT.jar
   
   The service should be up and running.
   
